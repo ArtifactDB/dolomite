@@ -14,9 +14,7 @@
 
 # dolomite
 
-> Add a short description here!
-
-A longer description of your project goes here...
+This is a wrapper package to install all dolomite-* packages. 
 
 
 <!-- pyscaffold-notes -->
